@@ -5,6 +5,8 @@ Atividade prática consistindo em uma landing page ofertando um curso de CSS, of
 ## Demonstração
 Para ver como ficou o site pronto, [clique aqui]()
 
+![image](https://github.com/Renatabc/landing-page-CSS/assets/93830634/f9d23132-f8a9-4c96-8089-2fea5f2590ac)
+
 ## Recursos utilizados
 - [VSCode](https://code.visualstudio.com/download) - editor de código
 - [Git](https://git-scm.com/downloads) - enviar repositório para o GitHub.
